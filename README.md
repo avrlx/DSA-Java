@@ -45,7 +45,7 @@ To run the code in this repository locally, ensure you have the following instal
 | Stage | Topic | Focus Area | Status | Phase |
 | :--- | :--- | :--- | :---: | :---: |
 | **01** | **Basics** | Variables, Data Types, I/O | 🟢 Completed | 1/1 |
-| **02** | **If else** | Conditionals, Switch | 🔴 Not Started | 0/1 |
+| **02** | **If else** | Conditionals, Switch | 🟡 In Progress | 0/1 |
 | **03** | **Loops** | For, While, Do-While | 🔴 Not Started | 0/1 |
 | **04** | **Pattern printing** | Nested loops, Star patterns | 🔴 Not Started | 0/1 |
 | **05** | **Methods** | Functions, Parameters, Returns | 🔴 Not Started | 0/1 |
