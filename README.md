@@ -42,15 +42,35 @@ To run the code in this repository locally, ensure you have the following instal
 
 ## 📈 Progress Tracker
 
-| Stage | Topic | Focus Area | Status |
-| :--- | :--- | :--- | :---: |
-| **01** | **Java Basics** | Loops, Functions, Arrays, ArrayList | 🟡 In Progress
-| **02** | **Strings** | Manipulation, ASCII, Immutable properties | 🔴 Not Started
-| **03** | **Recursion** | Basic patterns, Factorial, Fibonacci | 🔴 Not Started
-| **04** | **Basic Sorting** | Bubble Sort, Selection Sort, Insertion Sort | 🔴 Not Started
-| **05** | **Linear DS** | ArrayList (Deep Dive), Singly Linked List | 🔴 Not Started
-| **06** | **Stacks & Queues**| Push/Pop mechanics, LIFO/FIFO structures | 🔴 Not Started
-| **07** | **Hashing** | HashMap and HashSet basic lookups | 🔴 Not Started
+| Stage | Topic | Focus Area | Status | Phase |
+| :--- | :--- | :--- | :---: | :---: |
+| **01** | **Basics** | Variables, Data Types, I/O | 🟢 Completed | 1/1 |
+| **02** | **If else** | Conditionals, Switch | 🔴 Not Started | 0/1 |
+| **03** | **Loops** | For, While, Do-While | 🔴 Not Started | 0/1 |
+| **04** | **Pattern printing** | Nested loops, Star patterns | 🔴 Not Started | 0/1 |
+| **05** | **Methods** | Functions, Parameters, Returns | 🔴 Not Started | 0/1 |
+| **06** | **Array** | 1D Arrays, Iteration, Operations | 🔴 Not Started | 0/1 |
+| **07** | **Time space complexity** | Big O notation, Space limits | 🔴 Not Started | 0/1 |
+| **08** | **Bubble selection and insertion sort** | Elementary Sorting Algorithms | 🔴 Not Started | 0/1 |
+| **09** | **Binary search** | Monotonic search spaces | 🔴 Not Started | 0/1 |
+| **10** | **String** | Manipulation, StringBuilder | 🔴 Not Started | 0/1 |
+| **11** | **2d array** | Matrices, Traversals | 🔴 Not Started | 0/1 |
+| **12** | **Recursion** | Base conditions, Call stack | 🔴 Not Started | 0/2 |
+| **13** | **Merge sort** | Divide and Conquer | 🔴 Not Started | 0/1 |
+| **14** | **Cyclic sort** | 1 to N range problems | 🔴 Not Started | 0/1 |
+| **15** | **Oop** | Classes, Objects, Polymorphism | 🔴 Not Started | 0/1 |
+| **16** | **Linked list** | Singly, Doubly, Circular | 🔴 Not Started | 0/2 |
+| **17** | **Stack** | LIFO, Monotonic Stacks | 🔴 Not Started | 0/1 |
+| **18** | **Queue** | FIFO, Deques | 🔴 Not Started | 0/1 |
+| **19** | **Binary tree** | DFS/BFS Traversals, Properties | 🔴 Not Started | 0/2 |
+| **20** | **Binary search tree** | BST operations, Validations | 🔴 Not Started | 0/2 |
+| **21** | **Heap** | Priority Queues, Min/Max Heaps | 🔴 Not Started | 0/2 |
+| **22** | **Hashmap** | Hashing, Maps, Sets | 🔴 Not Started | 0/2 |
+| **23** | **Bit manipulation** | Bitwise operators, XOR, Masks | 🔴 Not Started | 0/1 |
+| **24** | **Dp (Dynamic Programming)** | Memoization, Tabulation | 🔴 Not Started | 0/3 |
+| **25** | **Binary search on answers** | Optimization, Min of Max | 🔴 Not Started | 0/1 |
+| **26** | **Backtracking** | State generation, Permutations | 🔴 Not Started | 0/1 |
+| **27** | **Graph** | BFS, DFS, Shortest Paths | 🔴 Not Started | 0/2 |
 
 
 ---
