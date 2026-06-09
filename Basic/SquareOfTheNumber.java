@@ -8,6 +8,7 @@ public class SquareOfTheNumber {
         int n = s.nextInt();
         int square = n*n;
         System.out.println("Square of the given number "+n+" is: "+square);
+        s.close();
     }
     
 }
