@@ -8,7 +8,6 @@ public class TriangleOrNot {
         double a = sc.nextDouble();
         System.out.print("Enter lenght of 2nd side of triangle : ");
         double b = sc.nextDouble();
-
         System.out.print("Enter lenght of 3rd side of triangle : ");
         double c = sc.nextDouble();
         if(a + b >= c && b + c >= a && c + a >= b) System.out.println(a + ", " + b + ", " + c + ", are 3 side of triangle.");
