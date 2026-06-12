@@ -11,6 +11,6 @@ public class NTO1 {
             System.out.print(i + " ");
             
         }
-    }
+    }  
     
 }
