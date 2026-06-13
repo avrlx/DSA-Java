@@ -14,6 +14,7 @@ public class SumOfDigit {
             sum += remainder;
             temp /= 10;
         }
+        if(sum < 0 ) sum = -sum;
         System.out.println("Sum of Digits of " + n + " is " + sum + ".");
     }
     
