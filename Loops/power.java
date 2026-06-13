@@ -13,7 +13,7 @@ public class power {
             power *= a;
             
         }
-        System.out.println(a + " to the Power " + b + " is " + power + ".");
+        System.out.println(a + " raised to the Power " + b + " is " + power + ".");
 
     }
     
