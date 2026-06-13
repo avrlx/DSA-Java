@@ -46,8 +46,8 @@ To run the code in this repository locally, ensure you have the following instal
 | :--- | :--- | :--- | :---: | :---: |
 | **01** | **Basics** | Variables, Data Types, I/O | 🟢 Completed | 1/1 |
 | **02** | **If else** | Conditionals, Switch | 🟢 Completed | 1/1 |
-| **03** | **Loops** | For, While, Do-While | 🟡 In Progress | 0/1 |
-| **04** | **Pattern printing** | Nested loops, Star patterns | 🔴 Not Started | 0/1 |
+| **03** | **Loops** | For, While, Do-While | 🟢 Completed | 1/1 |
+| **04** | **Pattern printing** | Nested loops, Star patterns | 🟡 In Progress | 0/1 |
 | **05** | **Methods** | Functions, Parameters, Returns | 🔴 Not Started | 0/1 |
 | **06** | **Array** | 1D Arrays, Iteration, Operations | 🔴 Not Started | 0/1 |
 | **07** | **Time space complexity** | Big O notation, Space limits | 🔴 Not Started | 0/1 |
