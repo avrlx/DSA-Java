@@ -10,7 +10,7 @@ public class NumberVerticallyFlippedTriangle {
             for (int j = 1; j <= n - i; j++) {
                 System.out.print("  ");
             }
-            for (int j = n+1-i; j <= n; j++) {
+            for (int j = 1; j <= i; j++) {
                 System.out.print(j + " ");
             }
             System.out.println();
