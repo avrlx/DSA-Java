@@ -22,7 +22,7 @@ To run the code in this repository locally, ensure you have the following instal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/avrlx/DSA-Java.git
    ```
 2. Navigate to the specific topic folder:
    ```bash
