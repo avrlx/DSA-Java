@@ -14,6 +14,6 @@ public class PrintSum {
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
         }
-        System.out.println("Sum of element of Array : " + sum);
+        System.out.println("Sum of elements of Array : " + sum);
     }
 }
