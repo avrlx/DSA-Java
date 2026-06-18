@@ -10,7 +10,9 @@ public class Update {
         arr.add(29); // 4
         System.out.println(arr); 
         // Update the value..
+
         arr.set(2,4); // change index 2 to 4..
+        
         System.out.println(arr); 
     }
 }
