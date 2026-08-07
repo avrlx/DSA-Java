@@ -1,5 +1,7 @@
 *.class
 .DS_Store
 tempCodeRunnerFile.java
-.idea
+.idea/
+Icon
+/out/
 *.iml
