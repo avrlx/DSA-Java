@@ -52,7 +52,7 @@ To run the code in this repository locally, ensure you have the following instal
 | **06** | **Array** | 1D Arrays, Iteration, Operations | 🟢 Completed | 1/1 |
 | **07** | **Time space complexity** | Big O notation, Space limits | 🟢 Completed | 1/1 |
 | **08** | **Bubble selection and insertion sort** | Elementary Sorting Algorithms | 🟢 Completed | 1/1 |
-| **09** | **Binary search** | Monotonic search spaces | 🟡 In Progress | 0/1 |
+| **09** | **Binary search** | Monotonic search spaces | 🟢 Completed | 1/1 |
 | **10** | **String** | Manipulation, StringBuilder | 🟡 In Progress | 0/1 |
 | **11** | **2d array** | Matrices, Traversals | 🔴 Not Started | 0/1 |
 | **12** | **Recursion** | Base conditions, Call stack | 🔴 Not Started | 0/2 |
