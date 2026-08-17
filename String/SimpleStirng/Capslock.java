@@ -1,4 +1,4 @@
-package String;
+package String.SimpleStirng;
 
 public class Capslock {
     static void main(String[] args) {

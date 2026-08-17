@@ -1,4 +1,4 @@
-package String;
+package String.SimpleStirng;
 
 public class SringEqual {
     static void main(String[] args) {

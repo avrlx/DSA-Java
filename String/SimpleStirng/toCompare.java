@@ -1,4 +1,4 @@
-package String;
+package String.SimpleStirng;
 
 public class toCompare {
     static void main(String[] args) {

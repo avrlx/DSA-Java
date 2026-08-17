@@ -1,4 +1,4 @@
-package String;
+package String.SimpleStirng;
 
 public class StringToInt {
     static void main(String[] args) {

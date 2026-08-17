@@ -1,4 +1,4 @@
-package String;
+package String.SimpleStirng;
 
 public class indexOf {
     static void main(String[] args) {

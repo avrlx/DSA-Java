@@ -1,4 +1,4 @@
-package String;
+package String.StringBuilder;
 
 public class StingBuilder {
     static void main(String[] args) {
