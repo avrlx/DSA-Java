@@ -9,7 +9,6 @@ public class Basic {
                 System.out.print(arr[i][j] + " ");
             }
             System.out.println();
-
         }
     }
 }
